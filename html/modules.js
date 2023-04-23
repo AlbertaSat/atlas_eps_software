@@ -1,0 +1,28 @@
+var modules =
+[
+    [ "AD5324", "group___a_d5324.html", "group___a_d5324" ],
+    [ "I2C_PORT", "group___i2_c___p_o_r_t.html", "group___i2_c___p_o_r_t" ],
+    [ "INA226", "group___i_n_a226.html", "group___i_n_a226" ],
+    [ "PRINT", "group___p_r_i_n_t.html", "group___p_r_i_n_t" ],
+    [ "ADC", "group___a_d_c.html", "group___a_d_c" ],
+    [ "CAN", "group___c_a_n.html", "group___c_a_n" ],
+    [ "CRC", "group___c_r_c.html", "group___c_r_c" ],
+    [ "DCC", "group___d_c_c.html", "group___d_c_c" ],
+    [ "eCAP", "group__e_c_a_p.html", "group__e_c_a_p" ],
+    [ "eQEP", "group__e_q_e_p.html", "group__e_q_e_p" ],
+    [ "ESM", "group___e_s_m.html", "group___e_s_m" ],
+    [ "ePWM", "group__e_p_w_m.html", "group__e_p_w_m" ],
+    [ "GIO", "group___g_i_o.html", "group___g_i_o" ],
+    [ "HET", "group___h_e_t.html", "group___h_e_t" ],
+    [ "I2C", "group___i2_c.html", "group___i2_c" ],
+    [ "LIN", "group___l_i_n.html", "group___l_i_n" ],
+    [ "MIBSPI", "group___m_i_b_s_p_i.html", "group___m_i_b_s_p_i" ],
+    [ "IOMM", "group___i_o_m_m.html", "group___i_o_m_m" ],
+    [ "RTI", "group___r_t_i.html", "group___r_t_i" ],
+    [ "SCI", "group___s_c_i.html", "group___s_c_i" ],
+    [ "SPI", "group___s_p_i.html", "group___s_p_i" ],
+    [ "DMA", "group___d_m_a.html", "group___d_m_a" ],
+    [ "PCR", "group___p_c_r.html", "group___p_c_r" ],
+    [ "PMM", "group___p_m_m.html", "group___p_m_m" ],
+    [ "VIM", "group___v_i_m.html", "group___v_i_m" ]
+];
